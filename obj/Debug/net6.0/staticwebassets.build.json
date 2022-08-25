@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sgR7q+okOHRWZh/zAAvqdryoyn7M0ku0d8HU4gfJRws=",
+  "Source": "Kovan.API",
+  "BasePath": "_content/Kovan.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
