@@ -15,7 +15,8 @@
   - 2-) Random server erros occure. Will be handled. (There is no exception handling yet)
   - 3-) Graph Library HotChocolate used at Web API. It needs to be re-maintained.
 
-
+# Screen For Demo:      
+  
 ![Server_1](https://user-images.githubusercontent.com/49819371/186628703-0f0bdc50-a3de-4f8b-afe3-169550af24f6.jpg)
 
 ![Server_0](https://user-images.githubusercontent.com/49819371/186628716-6069e392-5fa9-42a5-8a81-9e3cc4baef4d.jpg)
