@@ -1,4 +1,4 @@
-# graphql-api
+# KOVAN Studio  graphql based web api
 
 ## DEPLOYMENT : 
 ### 1-) Clone the repository via CLI => "git clone <address>"
@@ -10,9 +10,10 @@
 
 
 
-# Known Issues : 
-### 1-) gitignore will be added
-### 2-) Random server erros occure. Will be handled. (There is no exception handling yet)
+# Known Issues :   
+  ### 1-) gitignore will be added
+  ### 2-) Random server erros occure. Will be handled. (There is no exception handling yet)
+  ### 3-) Graph Library HotChocolate used at Web API. It needs to be re-maintained.
 
 
 ![Server_1](https://user-images.githubusercontent.com/49819371/186628703-0f0bdc50-a3de-4f8b-afe3-169550af24f6.jpg)
